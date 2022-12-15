@@ -18,7 +18,7 @@
 				<key>IsRemovable</key>
 				<true />
 				<key>Label</key>
-				<string>环游</string>
+				<string>欢游</string>
 				<key>PayloadDescription</key>
 				<string>Adds a Web Clip.</string>
 				<key>PayloadDisplayName</key>
@@ -30,13 +30,13 @@
 				<key>PayloadType</key>
 				<string>com.apple.webClip.managed</string>
 				<key>PayloadUUID</key>
-				<string>40e7b051-3b7c-4e83-bd85-2e88e43a9868</string>
+				<string>78b31c93-a7a3-4400-9067-b6b6b5354d57</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>Precomposed</key>
 				<true />
 				<key>URL</key>
-				<string>http://45.77.43.163:6002/</string>
+				<string>http://103.99.115.13:6511/</string>
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
@@ -52,7 +52,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>878aa8d0-4bb0-4ad9-a958-944f63977138</string>
+		<string>7669f3a6-9f63-47a0-8d42-37c5b4d5fb80</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
